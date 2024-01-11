@@ -1,0 +1,15 @@
+ 
+
+	git init
+
+	git add .
+
+	git status (Ver se foi adicionado)
+
+	git commit -m "COMENTARIO"
+
+        git branch -M main
+
+	git remote add origin https://github.com/ADANRUIVO/not_found_Animado.git
+
+	git push -u origin main
